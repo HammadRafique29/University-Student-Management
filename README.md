@@ -35,3 +35,9 @@ information about the student within the requested major with closest GPA to
 that requested. Do not provide students that have graduated or had disciplinary
 action .
 - After output for one query, query the user again. Allow ‘q’ to quit.
+
+
+## Demo:
+
+https://github.com/HammadRafique29/University-Student-Management/assets/112252001/77df4c97-4626-4593-a374-886ddddd4c18
+
